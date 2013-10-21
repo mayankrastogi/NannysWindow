@@ -1,0 +1,3 @@
+A gas stove is an emminent, yet possibly dangerous article in your kitchen, as it uses highly inflammable LPG gas. Therefore, always check for leakage, and keep the stove off, while not in use.
+
+Note :  {{Pause=0.5}} LPG is a natural gas and non-renewable energy resource. So, save it.
